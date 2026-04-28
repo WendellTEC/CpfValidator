@@ -43,17 +43,6 @@ A validação é feita por uma classe específica que possui 4 métodos:
 
 ---
 
-📦 Estrutura do projeto
-src/
-│
-├── App/
-│   └── (classe principal - entrada e controle do fluxo)
-│
-├── entities/
-│   └── (classe responsável pelas validações)
-
----
-
 🎯 Objetivo
 O principal objetivo deste projeto é ser simples e educativo, ajudando no entendimento da lógica de validação de CPF e na organização básica de um projeto Java com separação por pacotes.
 
