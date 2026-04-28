@@ -1,5 +1,7 @@
 📄 Validador de CPF - Java SE 21
+
 📌 Sobre o projeto
+
 Este projeto é uma aplicação simples desenvolvida em Java SE 21 com o objetivo de demonstrar, de forma didática, como funciona a validação de um CPF.
 
 A aplicação recebe um CPF como entrada, realiza o tratamento dos dados e executa as validações necessárias para verificar se o CPF é válido ou não.
@@ -44,6 +46,7 @@ A validação é feita por uma classe específica que possui 4 métodos:
 ---
 
 🎯 Objetivo
+
 O principal objetivo deste projeto é ser simples e educativo, ajudando no entendimento da lógica de validação de CPF e na organização básica de um projeto Java com separação por pacotes.
 
 ---
@@ -58,6 +61,7 @@ O principal objetivo deste projeto é ser simples e educativo, ajudando no enten
 🧪 Exemplo de uso
 
 Digite o CPF: 123.456.789-09
+
 CPF inválido
 
 ---
